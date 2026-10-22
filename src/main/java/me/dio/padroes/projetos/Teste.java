@@ -1,5 +1,6 @@
 package me.dio.padroes.projetos;
 
+import me.dio.padroes.projetos.facade.Facade;
 import me.dio.padroes.projetos.singleton.SingletonEager;
 import me.dio.padroes.projetos.singleton.SingletonLazy;
 import me.dio.padroes.projetos.singleton.SingletonLazyHolder;
@@ -33,6 +34,8 @@ public class Teste {
 
 
         // FACADE
+        Facade facade = new Facade();
+        facade.migraClient("Pedro", "12345-98");
     }
 
 
