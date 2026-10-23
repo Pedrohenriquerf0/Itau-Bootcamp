@@ -23,7 +23,7 @@ Para facilitar a navegação e o acompanhamento do progresso, os diretórios est
 
 **Pedrohenriquerf0**
 
-[![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=linkedln&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-39b25a1bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-39b25a1bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrohenriquerf0)
 
 ---
