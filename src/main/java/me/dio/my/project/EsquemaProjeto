@@ -1,0 +1,15 @@
+me.dio.my.project
+│
+├── PatrimonioApplication.java     <-- A classe "Motor" do Spring Boot
+│
+├── model/                         <-- Onde ficam suas Tabelas (Entidades)
+│   └── Patrimonio.java
+│
+├── repository/                    <-- Onde fica a comunicação com o MariaDB
+│   └── PatrimonioRepository.java
+│
+├── service/                       <-- Onde ficam suas regras de negócio
+│   └── PatrimonioService.java
+│
+└── controller/                    <-- A sua antiga View (onde ficam os Endpoints)
+    └── PatrimonioController.java
